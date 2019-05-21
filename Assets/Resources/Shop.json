@@ -1,0 +1,36 @@
+{
+  "shopItems": [
+    {
+      "id": 0,
+      "price": 30,
+      "name": "Protection",
+      "type": "block",
+      "description": "You get 10 seconds protection.",
+      "graphicsLocation": "Graphics/shieldSilver_HUD"
+    },
+    {
+      "id": 1,
+      "price": 75,
+      "name": "Extra health",
+      "type": "health",
+      "description": "Add next health for you but you must have max 5 health.",
+      "graphicsLocation": "Graphics/hud_heartFull"
+    },
+    {
+      "id": 2,
+      "price": 50,
+      "name": "Runner",
+      "type": "speed",
+      "description": "You are move faster",
+      "graphicsLocation": ""
+    },
+    {
+      "id": 3,
+      "price": 40,
+      "name": "Wraith block",
+      "type": "block",
+      "description": "On board are wraith blocks",
+      "graphicsLocation": ""
+    }
+  ]
+}
